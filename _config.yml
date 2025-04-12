@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuoshou Li"
+title                    : "Fan Chen"
 title_separator          : "-"
-name                     : &name "Shuoshou Li"
-description              : &description "I am Shuoshou Li, currently a Ph.D. student at Xinjiang University."
+name                     : &name "Fan Chen"
+description              : &description "I am Fan Chen, currently a M.S. student at Xinjiang University."
 url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shuoshou Li"
+  name             : "Fan Chen"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "lishuoshuo@stu.xju.edu.cn" 
+  email            : "chenfan@stu.xju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
